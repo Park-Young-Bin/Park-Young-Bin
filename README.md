@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pyb971219@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/qkrdudqlsdhk)
 
-
 ### Who Am I 
 - 🌱 I’m currently learning R, Python programming and Statistics.
 - 🥇 I majored in Statistics and my minor is Healthcare Data Science.
@@ -23,8 +22,3 @@
 - &#128195; Research (Analysis of factors influencing the determination of medical expenditure
 for the elderly in Korea) (2021.03 ~ 2021.06)
 - &#128084; Public Big Data Youth Talent Nurturing Project Intern Intern (2021.07 ~)
-
-### What I Like 
-- &#127911; Listening to music   
-- &#127969;	Rest at home
-- &#127831;	Chicken and Barger
