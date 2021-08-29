@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=Park%20Young%20Bin's%20GitHub%20Profile&fontSize=45)
-# Hi, I'm YoungBin Park 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
+# Hi, I'm YoungBin Park 👋 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pyb971219@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/qkrdudqlsdhk)
@@ -9,7 +9,7 @@
 - 🥇 I majored in Statistics and my minor is Healthcare Data Science.
 - 🚅 My hometown is Jongno-go, Seoul in Korea
 
-### Interest
+### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
 - &#128202; Data Analysis and Data Visualization
 - &#128187; AI, Machine Learning
 
