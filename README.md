@@ -20,4 +20,4 @@
 - 🎓 Gangneung-Wonju National University , Statistics (2016.03 ~ )
 - &#128195; Research (Analysis of factors influencing the determination of medical expenditure
 for the elderly in Korea) (2021.03 ~ 2021.06)
-- &#128084; Public Big Data Youth Talent Nurturing Project Intern Intern (2021.07 ~)
+- &#128084; Public Big Data Youth Talent Nurturing Project Intern Intern (2021.07 ~ 2021.08)
