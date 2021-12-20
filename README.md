@@ -11,7 +11,7 @@
 
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
 - &#128202; Data Analysis and Data Visualization
-- &#128187; AI, Machine Learning
+- &#128187; Machine Learning
 
 ### Skills(Languages & Tools)
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
