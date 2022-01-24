@@ -6,7 +6,7 @@
 
 ### Who Am I 
 - 🌱 I’m currently learning R, Python programming and Statistics.
-- 🥇 I majored in Statistics and my minor is Healthcare Data Science.
+- 🥇 I majored in Statistics.
 - 🚅 My hometown is Jongno-go, Seoul in Korea
 
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
