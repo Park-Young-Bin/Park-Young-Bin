@@ -21,4 +21,4 @@
 - &#128195; Research (Analysis of factors influencing the determination of medical expenditure
 for the elderly in Korea) (2021.03 ~ 2021.06)
 - &#128084; Public Big Data Youth Talent Nurturing Project Student (2021.07 ~ 2021.08)
-- &#127970; National Rehabilitation Center Rehabilitation Research Institute Intern Researcher (2021.09 ~ 2022.)
+- &#127970; National Rehabilitation Center Rehabilitation Research Institute Intern Researcher (2021.09 ~ 2022.02)
