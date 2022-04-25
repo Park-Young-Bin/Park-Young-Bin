@@ -25,4 +25,4 @@ for the elderly in Korea) (2021.03 ~ 2021.06)
 
 ### Research Experience
 - Construction of a High Blood Pressure Classification Model for Physical Disabilities : Variable Selection Using Penalty Regression Analysis (2022.01 ~ Present)
-- (2021.11 ~ Present)
+- (2021.11 ~ Present )
