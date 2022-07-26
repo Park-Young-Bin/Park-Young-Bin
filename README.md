@@ -22,6 +22,7 @@
 - &#127970; National Rehabilitation Center / Rehabilitation Research Institute / Intern Researcher (2021.09 ~ 2022.02)
 
 ### Research Experience
+
 - &#128195; Development of a classification model for the prevalence of hypertension in people with physical disabilities using LightGBM algorithm (2021.11 ~ Present)
 - &#128195; Civil Complaint Data Analysis Using Text Mining : Focusing on the Visually Impaired (2021.11 ~ 2022.06)
 - &#128195; Analysis of factors influencing the determination of medical expenditure for the elderly in Korea (2021.03 ~ 2022.02)
