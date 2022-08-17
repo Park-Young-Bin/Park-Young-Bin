@@ -20,7 +20,7 @@
 - 🎓 Gangneung-Wonju National University, Statistics (2016.03 ~ 2022.02)
 - &#128084; Public Big Data Youth Talent Nurturing Project Student (2021.07 ~ 2021.08)
 - &#127970; National Rehabilitation Center / Rehabilitation Research Institute / Intern Researcher (2021.09 ~ 2022.02)
-- &#127970; OUaR LaB / R&D / Researcher (2022.06 ~)
+- &#127970; OUaR LaB / R&D / Researcher (2022.06 ~ )
 
 ### Research Experience
 - &#128195; Development of a classification model for the prevalence of hypertension in people with physical disabilities using LightGBM algorithm (2021.11 ~ Present)
