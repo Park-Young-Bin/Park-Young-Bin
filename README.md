@@ -5,9 +5,9 @@
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/qkrdudqlsdhk)
 
 ### Who Am I 
-- 🌱 I’m currently learning R, Python programming and Statistics.
+- 🌱 I’m currently learning the basics of text mining with Python.
 - 🥇 I majored in Statistics.
-- 🚅 My hometown is Jongno-go, Seoul in Korea
+- 🚅 My hometown is Jongno-go, Seoul in Korea.
 
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
 - &#128202; Data Analysis and Data Visualization
