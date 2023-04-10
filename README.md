@@ -23,6 +23,7 @@
 - &#127970; OUaR LaB / Researcher / 2022 AI learning data construction project (2022.06 ~ present)
 
 ### Research Experience
-- &#128195; Development of a classification model for the prevalence of hypertension in people with physical disabilities using LightGBM algorithm (2022.04 ~ Present)
-- &#128195; Civil Complaint Data Analysis Using Text Mining : Focusing on the Visually Impaired (2021.11 ~ 2022.05)
-- &#128195; Analysis of factors influencing the determination of medical expenditure for the elderly in Korea (2021.03 ~ 2022.02)
+- &#128195; Development of a classification model for the prevalence of hypertension in people with physical disabilities using LightGBM algorithm (decision in process)
+- &#128195; The civil complaint of ‘people with disabilities’ data analysis using LDA(Latent Dirichlet Allocation) topic modeling technique: Focused on disabled parking (2022.06)
+- &#128195; Civil Complaint Data Analysis Using Text Mining : Focusing on the Visually Impaired (2022.05)
+- &#128195; Analysis of factors influencing the determination of medical expenditure for the elderly in Korea (2022.02)
