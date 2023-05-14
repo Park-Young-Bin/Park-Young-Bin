@@ -5,7 +5,7 @@
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/qkrdudqlsdhk)
 
 ### Who Am I 
-- 🌱 I’m currently learning the basics of text mining with Python.
+- 🌱 I'm interested in understanding people's thoughts with social media text data.
 - 🥇 I majored in Statistics.
 - 🚅 My hometown is Jongno-go, Seoul in Korea.
 
