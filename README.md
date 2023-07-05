@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=Park%20Young%20Bin's%20GitHub%20Profile&fontSize=45)
-# Hi, I'm YoungBin Park 👋 
+![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=190&section=header&text=Park%20Young%20Bin's%20GitHub%20Profile&fontSize=35)
+## Hi, I'm YoungBin Park 👋 
 
 ### Who Am I 
 - 🌱 I'm interested in statistics and data analysis.
